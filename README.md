@@ -1,11 +1,17 @@
-# React Fetching Data Using :
+## Fetching GitHub Users Data.
 
-<u>
-  <li>UseEffect() Hook </li>
+# Tools Used:
+<ul>
+       <li>State & Props</li>
+       <li>useState()</li>
+       <li>Event</li>
+   <li>UseEffect() Hook </li>
   <li>Public Url for github users data </li>
-  </ul>
-# Demo
-![Demo](https://user-images.githubusercontent.com/45298945/111468541-b9325780-8736-11eb-84e0-231b19e8cb9b.jpeg)
+  <li>Clean Code</li>
+   </ul>  
+   
+#Demo
+![Demo](https://user-images.githubusercontent.com/45298945/111471270-cac92e80-8739-11eb-9feb-27a199cfd688.jpeg)
 
 # Getting Started with Create React App
 
