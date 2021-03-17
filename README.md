@@ -1,4 +1,11 @@
-# React Fetching Data Using UseEffect() Hook 
+# React Fetching Data Using :
+
+<u>
+  <li>UseEffect() Hook </li>
+  <li>Public Url for github users data </li>
+  </ul>
+# Demo
+![Demo](https://user-images.githubusercontent.com/45298945/111468541-b9325780-8736-11eb-84e0-231b19e8cb9b.jpeg)
 
 # Getting Started with Create React App
 
